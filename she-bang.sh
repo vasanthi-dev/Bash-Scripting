@@ -2,4 +2,4 @@
 echo Hello World
 echo HI
 echo Bye
-echo -e "Hello\nIam Bash"
+echo -e "\e[33mHello\nIam Bash"
