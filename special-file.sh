@@ -7,4 +7,4 @@ echo @ = $@
 #echo # =$#
 
 
-echo -e "your name : $1 /n your age : $2"
+#echo -e "your name : $1 /n your age : $2"
