@@ -9,3 +9,4 @@ echo "H = $#"
 
 
 echo -e "your name : $1 /n your age : $2"
+exit
