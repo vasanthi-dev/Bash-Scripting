@@ -8,5 +8,7 @@ function abc(){
 }
 # main program
 a=10
+c=40
 abc
-echo b in main program = $b
+echo "b in main program = $b"
+echo "c in main program = $c"
