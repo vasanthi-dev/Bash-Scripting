@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+# Function
 function abc(){
   echo "Hello I am a function abc"
   echo "a in function = $a"
