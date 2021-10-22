@@ -5,7 +5,7 @@ echo 2 = $2
 
 echo "S = $*"
 echo "H = $#"
-echo "A = $@"
+#echo "A = $@"
 
 
 echo -e "your name : $1 /n your age : $2"
