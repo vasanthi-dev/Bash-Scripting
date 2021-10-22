@@ -9,4 +9,4 @@ function abc(){
 # main program
 a=10
 abc
-echo "b in main program = $b"
+echo b in main program = $b
