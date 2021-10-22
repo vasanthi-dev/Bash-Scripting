@@ -11,4 +11,4 @@ function abc(){
 a=10
 abc
 echo "status of abc = $?"
-echo "b in main program = $b"
+#echo "b in main program = $b"
