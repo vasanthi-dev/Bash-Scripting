@@ -1,5 +1,5 @@
 #!/bin/sh
 
-exit 0
+exit 10
 
 ls -l
